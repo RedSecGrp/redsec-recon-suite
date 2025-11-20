@@ -1,0 +1,15 @@
+# --- Dev Tools ---
+black==24.4.0           # Formateo automático
+flake8==7.1.0           # Linter
+isort==5.13.2           # Ordena imports
+
+# --- Testing ---
+pytest==8.3.2           # Framework de pruebas
+pytest-cov==5.0.0       # Coverage
+
+# --- Seguridad ---
+bandit==1.7.7           # Análisis de vulnerabilidades en código
+
+# --- Documentación ---
+mkdocs==1.6.0
+mkdocs-material==9.5.0
